@@ -1,0 +1,30 @@
+{
+  "name": "website_music",
+  "version": "1.0.0",
+  "description": "website listen to music and Manage songs",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --inspect ./index.js ",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NguyenDinhHung2k1/Website_Music_Manage_Nodejs.git"
+  },
+  "keywords": [
+    "nodejs",
+    "website_music"
+  ],
+  "author": "hungnd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NguyenDinhHung2k1/Website_Music_Manage_Nodejs/issues"
+  },
+  "homepage": "https://github.com/NguyenDinhHung2k1/Website_Music_Manage_Nodejs#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
